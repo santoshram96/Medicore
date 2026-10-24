@@ -1,0 +1,9 @@
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\database\JdbcConnection.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\model\Consultation.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\model\User.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\repository\InMemoryRepository.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\repository\JdbcPatientDataRepository.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\servlet\ConsultationServlet.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\servlet\HealthServlet.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\servlet\PatientDataServlet.java
+C:\Users\reach\Downloads\medical-servlet-basic-jdbc_project\medical-servlet-basic\src\main\java\com\medicalapp\servlet\UserServlet.java
